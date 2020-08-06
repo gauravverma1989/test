@@ -1,3 +1,5 @@
+
+
 * {margin:0px; padding:0px;}
 
 body {margin:0px; padding:0px; font-family: 'Montserrat', sans-serif; }
@@ -22,5 +24,7 @@ nav {box-shadow: unset !important; }
 .navbar-brand img {width:50%;}
 .navbar-expand-lg .navbar-nav .nav-link {color: black; font-size:0.9rem; padding-left:1.5rem;}
 
-.banner .banner-image {background-image: url(img/assets/assets/banner-img.png)}
+.banner {min-height:76vh;}
+.banner .banner-image img {max-width:100%;}
+/* .banner .banner-image {background-image: url(img/assets/assets/banner-img.png)} */
 /*----------------------------------------------------------------------------------------------------------*/
